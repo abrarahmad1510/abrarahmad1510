@@ -1,5 +1,5 @@
 # Hi Everyone, I'm Abrar!  
-**`Incoming @Microsoft |Prev @Uber Business | UofWaterloo CS | Backend Specialist| Machine Learning Engineer`**  
+**`Incoming SWE @Microsoft |Prev Data Analys @Uber Business | UofWaterloo CS | Backend Specialist| Machine Learning Engineer`**  
 
 <p align="center">
   <a href="your-linkedin">
