@@ -11,8 +11,8 @@
   <a href="your-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/myselfab1510/">
+    <img src="https://img.shields.io/badge/Instagram-EA4335?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 📌 Profile Overview
 
-| 🛠️ **Tech Arsenal** | 🚀 **Featured Projects** | 📊 **GitHub Insights** |
+| ⚙️ **Tech Arsenal** | 🌟 **Featured Projects** | 📈 **GitHub Insights** |
 |----------------------|--------------------------|------------------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) <br> ![ICP](https://img.shields.io/badge/ICP_Blockchain-29ABE2?logo=internetcomputer) | **DriveMate AI**<br>`TensorFlow` `Kubernetes`<br>[View →](project-link) <br><br> **DigiTag**<br>`ICP Blockchain` `Motoko`<br>[View →](project-link) | <img src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="100%"> |
 
@@ -45,7 +45,7 @@
 ## 🎓 Education & Leadership
 
 **University of Waterloo**  
-`B.CS with Co-op | 2023-2028`  
+`Honours in Computer Science with Co-op |`  
 *Research: AI Biases in Quantitative Finance*  
 
 **Velocity Program**  
