@@ -1,9 +1,9 @@
 # Hi Everyone, I'm Abrar!  
-**`Incoming SWE @Microsoft |Prev Data Analys @Uber Business | UofWaterloo CS | Backend Specialist| Machine Learning Engineer`**  
+**`Incoming @Microsoft | Prev @Uber Business | UofWaterloo CS | Backend Specialist | Machine Learning Engineer`**  
 
 <p align="center">
   <a href="your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -11,45 +11,42 @@
   <a href="your-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/myselfab1510/">
-    <img src="https://img.shields.io/badge/Instagram-EA4335?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
 </p>
 
 ---
 
 ## 📌 Profile Overview
 
-| ⚙️ **Tech Arsenal** | 🌟 **Featured Projects** | 📈 **GitHub Insights** |
-|----------------------|--------------------------|------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) <br> ![ICP](https://img.shields.io/badge/ICP_Blockchain-29ABE2?logo=internetcomputer) | **DriveMate AI**<br>`TensorFlow` `Kubernetes`<br>[View →](project-link) <br><br> **DigiTag**<br>`ICP Blockchain` `Motoko`<br>[View →](project-link) | <img src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="100%"> |
+| 🛠️ **Tech Arsenal** | 🚀 **Featured Projects** | 📜 **Certifications** |
+|----------------------|--------------------------|-----------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) <br> ![ICP](https://img.shields.io/badge/ICP_Blockchain-29ABE2?logo=internetcomputer) | **DriveMate AI**<br>`TensorFlow` `Kubernetes`<br>85% real-world efficiency<br>[View →](project-link) <br><br> **DroneRoad Navigation**<br>`OpenCV` `ROS`<br>92% obstacle detection<br>[View →](project-link) | **Stanford ML**<br>92% model accuracy<br>[View →](#) <br><br> **AWS Cloud**<br>25% cost optimization<br>[View →](#) |
 
 ---
 
-## 💼 Career Highlights
+## 📊 GitHub Insights
 
-### <img src="https://img.icons8.com/external-others-inmotus-design/67/external-Microsoft-hexagon-inmotus-design-2.png" width="25"/> **Microsoft** | Software & ML Intern
-- **Azure ML**: Reduced inference latency by **15%** with TensorFlow optimizations
-- **Monitoring**: Built anomaly detection models for cloud infrastructure
-
-### <img src="https://img.icons8.com/3d-fluency/94/hotel.png" width="25"/> **Nexus Hospitality** | Full-Stack Developer
-- **Real-Time System**: Achieved **19.7%↑** user retention with React/Node.js
-- **CI/CD**: Automated workflows using Docker + GitHub Actions
-
-### <img src="https://img.icons8.com/3d-fluency/94/code.png" width="25"/> **Augurs Technologies** | Solutions Engineer
-- **Hybrid Apps**: Reduced project delays by **10%** (Flutter/Xamarin)
-- **UI/UX**: Streamlined workflows with Figma + React.js
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=algolia&hide_border=true">
+  <img width="45%" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=algolia&hide_border=true">
+</p>
 
 ---
 
-## 🎓 Education & Leadership
+## 🔥 Core Sections
 
-**University of Waterloo**  
-`Honours in Computer Science with Co-op |`  
-*Research: AI Biases in Quantitative Finance*  
+| 💼 **Career Highlights** | 🎓 **Education & Leadership** |
+|--------------------------|-------------------------------|
+| <img src="https://img.icons8.com/color/28/microsoft.png"/> **Microsoft** • ML Intern<br> `Reduced latency by 15%` • `Azure ML`<br><br> <img src="https://img.icons8.com/color/28/amazon-web-services.png"/> **Nexus** • Full-Stack Dev<br> `19.7%↑ retention` • `React/Node.js`<br><br> <img src="https://img.icons8.com/color/28/artificial-intelligence.png"/> **Outlier AI** • LLM Engineer<br> `40%↓ errors` • `React/TypeScript` | **University of Waterloo**<br> `B.CS with Co-op • 2023-2028`<br> *AI in Quantitative Finance*<br><br> **Certifications**<br> `AWS Cloud` • `Stanford ML` • `IBM Full-Stack`<br><br> **Velocity Program**<br> `Organized W25 Hackathon` • `Partnered with Kevin O’Leary` |
 
-**Velocity Program**  
-`Brand Advocate` • Organized MVP Hackathon • Partnered with Kevin O’Leary
+---
+
+## 🛠️ Additional Projects
+
+| **Cloudit Allocation ML** | **Machine Test Detection** |
+|---------------------------|----------------------------|
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC) | ![Python](https://img.shields.io/badge/-Python-3776AB) ![React](https://img.shields.io/badge/-React-61DAFB) |
+| 40% cloud cost reduction | 93% anomaly detection accuracy |
+| [View →](#) | [View →](#) |
 
 ---
 
