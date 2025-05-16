@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abrar Ahmad  
+# Hi, I'm Abrar Ahmad  
 **Full-Stack Developer | ML Engineer | Blockchain Architect**  
 📍 Toronto, ON • [Portfolio](your-portfolio) • [Email](mailto:your.email@example.com)
 
