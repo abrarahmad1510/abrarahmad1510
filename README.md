@@ -17,15 +17,15 @@
 
 ## 📌 Profile Overview
 
-| 🛠️ **Tech Arsenal** | 🚀 **Featured Projects** | 📜 **Certifications** |
-|----------------------|--------------------------|-----------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) <br> ![ICP](https://img.shields.io/badge/ICP_Blockchain-29ABE2?logo=internetcomputer) | **DriveMate AI**<br>`TensorFlow` `Kubernetes`<br>85% real-world efficiency<br>[View →](project-link) <br><br> **DroneRoad Navigation**<br>`OpenCV` `ROS`<br>92% obstacle detection<br>[View →](project-link) | **Stanford ML**<br>92% model accuracy<br>[View →](#) <br><br> **AWS Cloud**<br>25% cost optimization<br>[View →](#) |
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
+  | 🛠️ **Tech Arsenal** | 🚀 **Featured Projects** | 📜 **Certifications** |
+|----------------------|--------------------------|-----------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react) <br> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws) <br> ![ICP](https://img.shields.io/badge/ICP_Blockchain-29ABE2?logo=internetcomputer) | **DriveMate AI**<br>`TensorFlow` `Kubernetes`<br>85% real-world efficiency<br>[View →](project-link) <br><br> **DroneRoad Navigation**<br>`OpenCV` `ROS`<br>92% obstacle detection<br>[View →](project-link) | **Stanford ML**<br>92% model accuracy<br>[View →](#) <br><br> **AWS Cloud**<br>25% cost optimization<br>[View →](#) |
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=algolia&hide_border=true">
   <img width="45%" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=algolia&hide_border=true">
 </p>
