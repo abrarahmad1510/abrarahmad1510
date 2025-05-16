@@ -1,5 +1,5 @@
-# 🚀 Abrar Ahmad  
-**`Full-Stack Developer | Machine Learning Engineer | Blockchain Architect`**  
+# Hi Everyone, I'm Abrar!  
+**`Incoming @Microsoft |Prev @Uber Business | UofWaterloo CS | Backend Specialist| Machine Learning Engineer`**  
 
 <p align="center">
   <a href="your-linkedin">
