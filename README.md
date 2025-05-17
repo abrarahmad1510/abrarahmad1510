@@ -117,7 +117,6 @@
     </td>
   </tr>
 </table>
-![image](https://github.com/user-attachments/assets/570da03b-a470-4d62-bd72-789f089ad4a2)
 --- 
   
   <div style="flex:1; max-width:45%;">
