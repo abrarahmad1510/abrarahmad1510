@@ -1,7 +1,6 @@
 <!--
   --------------------------------------------------------
   🌟 README for Abrar Ahmad
-  
   --------------------------------------------------------
 -->
 # Hi Everyone, I’m **Abrar**  
@@ -29,10 +28,34 @@
 
 ---
 
-<div align="center" style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
-  <div style="flex:1; max-width:45%;">
+<div align="center" style="display:flex; gap:24px; flex-wrap:wrap; justify-content:space-between;">
+  <!-- Education Column -->
+  <div style="flex:1; min-width:280px; max-width:30%;">
+    <h3>🎓 Education & Certifications</h3>
+    <table style="width:100%; border-collapse:collapse;">
+      <tr>
+        <td style="padding:8px;"><strong>University of Waterloo</strong></td>
+        <td style="padding:8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
+      </tr>
+      <tr>
+        <td style="padding:8px;"><strong>AWS</strong></td>
+        <td style="padding:8px;">Certified Solutions Architect – Associate</td>
+      </tr>
+      <tr>
+        <td style="padding:8px;"><strong>Stanford (Coursera)</strong></td>
+        <td style="padding:8px;">Machine Learning by Andrew Ng</td>
+      </tr>
+      <tr>
+        <td style="padding:8px;"><strong>Google Cloud</strong></td>
+        <td style="padding:8px;">Professional Cloud Architect</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Projects Column -->
+  <div style="flex:1; min-width:300px; max-width:65%;">
     <h3>🌟 Featured Projects</h3>
-    <table width="50%" style="border-collapse:collapse;">
+    <table width="100%" style="border-collapse:collapse;">
       <thead>
         <tr>
           <th align="left">Project</th>
@@ -72,38 +95,14 @@
         </tr>
       </tbody>
     </table>
-    <table style="width:50%; border-collapse:collapse;">
-    <tr>
-      <th align="left" style="padding:8px;">Institution</th>
-      <th align="left" style="padding:8px;">Details</th>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>University of Waterloo</strong></td>
-      <td style="padding:8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>AWS</strong></td>
-      <td style="padding:8px;">Certified Solutions Architect – Associate</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Stanford (Coursera)</strong></td>
-      <td style="padding:8px;">Machine Learning by Andrew Ng</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Google Cloud</strong></td>
-      <td style="padding:8px;">Professional Cloud Architect</td>
-    </tr>
-  </table>
   </div>
-  
-  --- 
-  
-  <div style="flex:1; max-width:45%;">
-    <h3>📈 GitHub Insights</h3>
-    <div align="center">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
-    </div>
-  </div>
+</div>
+
+---
+
+<div align="center" style="margin: 2rem auto;">
+  <h3>📈 GitHub Insights</h3>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" style="max-width:100%;" />
 </div>
 
 ---
@@ -136,41 +135,9 @@
 
 ---
 
-## 🎓 Education & Certifications
-<div align="center">
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <th align="left" style="padding:8px;">Institution</th>
-      <th align="left" style="padding:8px;">Details</th>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>University of Waterloo</strong></td>
-      <td style="padding:8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>AWS</strong></td>
-      <td style="padding:8px;">Certified Solutions Architect – Associate</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Stanford (Coursera)</strong></td>
-      <td style="padding:8px;">Machine Learning by Andrew Ng</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Google Cloud</strong></td>
-      <td style="padding:8px;">Professional Cloud Architect</td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🤝 Let’s Connect
 <p align="center"><em>Open to internships, collaborations, and industry talks.</em></p>
 <p align="center">
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-<p align="cent
