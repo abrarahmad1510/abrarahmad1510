@@ -19,7 +19,7 @@
 
 ## ⚙️ Tech Stack 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40" />
+  <img alt="Python" src="https://img.shields.io/badge/3776AB?logo=python&logoColor=white" height="40" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="40" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="40" />
