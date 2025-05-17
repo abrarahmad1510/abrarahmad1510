@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/abrarahmad1510/brand-banner.png" alt="Abrar Ahmad Banner" width="800" />
 </p>
 
-# 👋 Hi there, I’m **Abrar Ahmad**  
+# Hi Everyone, I’m **Abrar**  
 #### _Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | ML Engineer_
 
 <p align="center">
