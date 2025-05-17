@@ -28,53 +28,97 @@
 </p>
 
 ---
-
-<div align="center" style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
-  <div style="flex:1; max-width:45%;">
-    <h3>🌟 Featured Projects</h3>
-    <table width="100%" style="border-collapse:collapse;">
-      <thead>
-        <tr>
-          <th align="left">Project</th>
-          <th align="left">Tech Stack</th>
-          <th align="left">Highlight</th>
-          <th align="left">Link</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>DriveMate AI</strong></td>
-          <td>
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" />
-            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" />
-            <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" />
-          </td>
-          <td>Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
-          <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
-        </tr>
-        <tr>
-          <td><strong>1DayIntern</strong></td>
-          <td>
-            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" />
-            <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
-          </td>
-          <td>Processed <strong>5k+</strong> mock sessions in beta</td>
-          <td><a href="https://internatyourownrisk.tech/">Live</a></td>
-        </tr>
-        <tr>
-          <td><strong>DigiTag</strong></td>
-          <td>
-            <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" />
-            <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" />
-          </td>
-          <td>Handled <strong>1k+</strong> blockchain transactions</td>
-          <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  
-  --- 
+<!--code for the condensed two column table-->
+<table width="100%" style="table-layout:fixed;">
+  <tr>
+    <td width="30%" valign="top" style="padding-right:4%; word-wrap:break-word; line-height:1.5;">
+      <h3>🌟 Featured Projects</h3>
+      <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
+        <thead>
+          <tr>
+            <th align="left">Project</th>
+            <th align="left">Tech</th>
+            <th align="left">Highlight</th>
+            <th align="left">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>DriveMate AI</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="12" />
+              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="12" />
+            </td>
+            <td style="white-space:normal;">
+              Lane &amp; obstacle detection<br>
+              (98% accuracy)
+            </td>
+            <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
+          </tr>
+          <tr>
+            <td><strong>1DayIntern</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="12" />
+              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="12" />
+            </td>
+            <td style="white-space:normal;">
+              Processed 5k+ mock<br>
+              sessions in beta
+            </td>
+            <td><a href="https://internatyourownrisk.tech/">Live</a></td>
+          </tr>
+          <tr>
+            <td><strong>DigiTag</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="12" />
+              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="12" />
+            </td>
+            <td style="white-space:normal;">
+              Handled 1k+ blockchain<br>
+              transactions
+            </td>
+            <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
+          </tr>   
+        </tbody>
+      </table>
+    </td>
+    <td width="70%" valign="top" style="word-wrap:break-word; line-height:1.4;">
+      <h3>🎓 Education & Certifications</h3>
+      <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
+        <thead>
+          <tr>
+            <th align="left">Institution</th>
+            <th align="left">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>UofWaterloo</strong></td>
+            <td style="white-space:normal;">B.CS ‘23–‘28 (AI/ML) · Dean’s List</td>
+          </tr>
+          <tr>
+            <td><strong>AWS</strong></td>
+            <td style="white-space:normal;">Cert. Solutions Architect · Associate</td>
+          </tr>
+          <tr>
+            <td><strong>Stanford</strong></td>
+            <td>Machine Learning by Andrew Ng</td>
+          </tr>
+          <tr>
+            <td><strong>Google Cloud</strong></td>
+            <td>Professional Cloud Architect</td>
+          </tr>
+          <tr>
+            <td><strong>IBM</strong></td>
+            <td>Full Stack Development</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+![image](https://github.com/user-attachments/assets/570da03b-a470-4d62-bd72-789f089ad4a2)
+--- 
   
   <div style="flex:1; max-width:45%;">
     <h3>📈 GitHub Insights</h3>
