@@ -20,6 +20,12 @@
   <a href="your-fiverr-portfolio">
     <img src="https://img.shields.io/badge/fiverr-0A66C2?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
+  <a href="your-Medium-portfolio">
+    <img src="https://img.shields.io/badge/Medium-0A66C2?style=for-the-badge&logo=Medium&logoColor=white" />
+  </a>
+  <a href="your-CodePen-portfolio">
+    <img src="https://img.shields.io/badge/CodePen-0A66C2?style=for-the-badge&logo=CodePen&logoColor=white" />
+  </a>
 </p>
 
 ---
