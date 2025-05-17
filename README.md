@@ -159,9 +159,11 @@
     <tr>
       <td style="padding:8px;"><strong>Uber Business</strong> (2023–24)</td>
       <td style="padding:8px;">
-      •Cut ML pipeline latency by 15%
+      •Playwright Automation Scripts using Terraform & Jenkins 
       <br>
       •Deployed microservices that improved ETA accuracy by 12%
+      <br>
+      •Spearheaded backend using Java & Firebasi API improving a user retention rate of 23.6%
       </td>
       <td style="padding:8px;">Python · Go · Cassandra · Docker</td>
     </tr>
