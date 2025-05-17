@@ -85,7 +85,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><strong>University of Waterloo</strong></td>
+            <td><strong>UofWaterloo</strong></td>
             <td style="white-space:normal;">
               B.CS ‘23–‘28 (AI/ML)<br>
               Dean’s List
