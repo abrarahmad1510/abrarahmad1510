@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40" />
