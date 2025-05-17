@@ -44,30 +44,46 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project        | Description                                                     | Link                                      |
+|----------------|-----------------------------------------------------------------|-------------------------------------------|
+| DriveMate AI   | Autonomous vehicle navigation using TensorFlow & OpenCV.        | [Repo](https://github.com/abrarahmad1510/drivemate-ai) |
+| 1DayIntern     | AI-powered mock intern platform built with React & Node.js.     | [Live](https://internatyourownrisk.tech/) |
+| DigiTag        | Decentralized blockchain-based anti-counterfeit solution.       | [Site](https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/) |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/abrarahmad1510">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="450"/>
-  </a>
-  <a href="https://github.com/abrarahmad1510">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="450"/>
-  </a>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="48%" />
 </p>
 
 ---
 
 ## 💼 Career Highlights
 
-| Company                     | Key Impact                                                                                              | Tech & Tools                       |
-|-----------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Microsoft** (Incoming ’25) | • Architected backend APIs to scale 2× user load<br>• Designed reliability tests reducing incidents 20% | Azure · C# · gRPC                   |
-| **Uber Business** (2023–24) | • Cut ML pipeline latency by 15%<br>• Deployed microservices that improved ETA accuracy by 12%          | Python · Go · Cassandra · Docker    |
-| **Augurs Technologies** (2022–23) | • Automated data ingestion saving 10+ hrs/week<br>• Built dashboards driving 8% QoQ revenue growth | React · Node.js · PostgreSQL        |
+<div align="center">
+
+| Company                           | Key Impact                                                         | Tech & Tools                      |
+|-----------------------------------|--------------------------------------------------------------------|-----------------------------------|
+| **Microsoft** (Incoming ’25)      | • Architected backend APIs to scale 2× user load<br>• Designed reliability tests reducing incidents 20% | Azure · C# · gRPC                  |
+| **Uber Business** (2023–24)       | • Cut ML pipeline latency by 15%<br>• Deployed microservices that improved ETA accuracy by 12%       | Python · Go · Cassandra · Docker   |
+| **Augurs Technologies** (2022–23) | • Automated data ingestion saving 10+ hrs/week<br>• Built dashboards driving 8% QoQ revenue growth   | React · Node.js · PostgreSQL       |
+
+</div>
 
 ---
 
 ## 🎓 Education & Certifications
+
+<div align="center">
 
 | Institution                           | Details                                                  |
 |---------------------------------------|----------------------------------------------------------|
@@ -75,6 +91,8 @@
 | **AWS**                               | Certified Solutions Architect – Associate               |
 | **Stanford University (Coursera)**    | Machine Learning by Andrew Ng                            |
 | **Google Cloud**                      | Professional Cloud Architect                             |
+
+</div>
 
 ---
 
