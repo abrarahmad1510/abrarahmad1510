@@ -43,59 +43,55 @@
 
 ---
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🚀 Featured Projects</h3>
-        <table width="100%">
-          <tr>
-            <th align="left">Project</th>
-            <th align="left">Tech Stack</th>
-            <th align="left">Highlight</th>
-            <th align="left">Link</th>
-          </tr>
-          <tr>
-            <td><strong>DriveMate AI</strong></td>
-            <td>
-              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" />
-              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" />
-              <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" />
-            </td>
-            <td>Lane & amp; obstacle detection with <strong>98%</strong> accuracy</td>
-            <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
-          </tr>
-          <tr>
-            <td><strong>1DayIntern</strong></td>
-            <td>
-              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" />
-              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
-            </td>
-            <td>Processed <strong>5k+</strong> mock sessions in beta</td>
-            <td><a href="https://internatyourownrisk.tech/">Live</a></td>
-          </tr>
-          <tr>
-            <td><strong>DigiTag</strong></td>
-            <td>
-              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" />
-              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" />
-            </td>
-            <td>Handled <strong>1k+</strong> blockchain transactions</td>
-            <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
-          </tr>
-        </table>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📊 GitHub Insights</h3>
-        <p align="center">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
-        </p>
-        <p align="center">
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 0;">
+    <h3>🚀 Featured Projects</h3>
+    <table width="100%">
+      <tr>
+        <th align="left">Project</th>
+        <th align="left">Tech Stack</th>
+        <th align="left">Highlight</th>
+        <th align="left">Link</th>
+      </tr>
+      <tr>
+        <td><strong>DriveMate AI</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" />
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" />
+        </td>
+        <td>Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
+        <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
+      </tr>
+      <tr>
+        <td><strong>1DayIntern</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" />
+          <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
+        </td>
+        <td>Processed <strong>5k+</strong> mock sessions in beta</td>
+        <td><a href="https://internatyourownrisk.tech/">Live</a></td>
+      </tr>
+      <tr>
+        <td><strong>DigiTag</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" />
+          <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" />
+        </td>
+        <td>Handled <strong>1k+</strong> blockchain transactions</td>
+        <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
+      </tr>
+    </table>
+  </div>
+  <div style="flex: 1; min-width: 0;">
+    <h3>📊 GitHub Insights</h3>
+    <p align="center">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
+    </p>
+    <p align="center">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
+    </p>
+  </div>
 </div>
 
 ---
