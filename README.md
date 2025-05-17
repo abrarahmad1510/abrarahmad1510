@@ -1,7 +1,7 @@
 # Hi Everyone, I'm Abrar!  
 **`Incoming SWE @Microsoft | Prev SWE @Uber Business | UofWaterloo CS | Backend Specialist | Machine Learning Engineer`**  
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0">
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -26,7 +26,7 @@
   <a href="your-CodePen-portfolio">
     <img src="https://img.shields.io/badge/CodePen-0A66C2?style=for-the-badge&logo=CodePen&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -40,10 +40,10 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=algolia&hide_border=true">
   <img width="45%" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=algolia&hide_border=true">
-</p>
+</div>
 
 ---
 
@@ -67,8 +67,8 @@
 
 ## 🌟 Let's Collaborate!
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29ABE2&width=435&lines=AI-Driven+DevOps;Blockchain+Consensus;Hybrid+App+Optimization">
-</p>
+</div>
 
 ![GitHub Snake](https://github.com/abrarahmad1510/abrarahmad1510/blob/output/github-contribution-grid-snake.svg)
