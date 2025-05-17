@@ -25,6 +25,17 @@
   <img alt="Docker" src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white" height="40" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-326CE5?logo=kubernetes&logoColor=white" height="40" />
   <img alt="Go" src="https://img.shields.io/badge/-00ADD8?logo=go&logoColor=white" height="40" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2b%2b&logoColor=white" height="40" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="40" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="40" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="40" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="40" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="40" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-000000?logo=github-actions&logoColor=white" height="40" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="40" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="40" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" height="40" />
 </p>
 
 ---
