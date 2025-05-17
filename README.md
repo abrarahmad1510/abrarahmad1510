@@ -12,19 +12,19 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="28" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="24" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="24" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="24" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="24" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="24" />
 </p>
 
-<!-- Side by side: Projects on left, Education on right -->
+<!-- Side by side: Projects on left (30%), Education on right (70%) -->
 <table width="100%" style="table-layout:fixed;">
   <tr>
     <!-- Featured Projects Column -->
-    <td width="35%" valign="top" style="padding-right:4%; white-space:normal; word-wrap:break-word;">
+    <td width="30%" valign="top" style="padding-right:5%; word-wrap:break-word; line-height:1.5;">
       <h3>🌟 Featured Projects</h3>
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
@@ -39,35 +39,35 @@
           <tr>
             <td><strong>DriveMate AI</strong></td>
             <td>
-              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="14" />
-              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="14" />
+              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="12" />
+              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="12" />
             </td>
-            <td>98% lane & obstacle detection</td>
+            <td>Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
             <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
           </tr>
           <tr>
             <td><strong>1DayIntern</strong></td>
             <td>
-              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="14" />
-              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="14" />
+              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="12" />
+              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="12" />
             </td>
-            <td>5k+ sessions processed</td>
+            <td>Processed <strong>5k+</strong> mock sessions in beta</td>
             <td><a href="https://internatyourownrisk.tech/">Live</a></td>
           </tr>
           <tr>
             <td><strong>DigiTag</strong></td>
             <td>
-              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="14" />
-              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="14" />
+              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="12" />
+              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="12" />
             </td>
-            <td>1k+ blockchain txns</td>
+            <td>Handled <strong>1k+</strong> blockchain transactions</td>
             <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
           </tr>
         </tbody>
       </table>
     </td>
     <!-- Education Column -->
-    <td width="65%" valign="top" style="white-space:normal; word-wrap:break-word;">
+    <td width="70%" valign="top" style="word-wrap:break-word; line-height:1.4;">
       <h3>🎓 Education & Certifications</h3>
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
@@ -103,7 +103,7 @@
 
 ## 💼 Career Highlights
 
-<table width="100%" style="table-layout:fixed; word-wrap:break-word;">
+<table width="100%" style="table-layout:fixed; word-wrap:break-word; line-height:1.4;">
   <tr>
     <th align="left">Company</th>
     <th align="left">Key Impact</th>
@@ -111,17 +111,17 @@
   </tr>
   <tr>
     <td><strong>Microsoft</strong> (Incoming ’25)</td>
-    <td style="white-space:normal;">• Architected backend APIs to 2× user load; 20% fewer incidents</td>
+    <td>Architected backend APIs to scale 2× user load; Designed reliability tests reducing incidents 20%</td>
     <td>Azure · C# · gRPC</td>
   </tr>
   <tr>
     <td><strong>Uber Business</strong> (2023–24)</td>
-    <td style="white-space:normal;">• Cut ML pipeline latency 15%; Improved ETA accuracy 12%</td>
+    <td>Cut ML pipeline latency by 15%; Deployed microservices improving ETA accuracy by 12%</td>
     <td>Python · Go · Cassandra · Docker</td>
   </tr>
   <tr>
     <td><strong>Augurs Technologies</strong> (2022–23)</td>
-    <td style="white-space:normal;">• Saved 10+ hrs/week with automated ingestion; 8% QoQ revenue growth</td>
+    <td>Automated data ingestion saving 10+ hrs/week; Built dashboards driving 8% QoQ revenue growth</td>
     <td>React · Node.js · PostgreSQL</td>
   </tr>
 </table>
