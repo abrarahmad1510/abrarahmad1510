@@ -24,7 +24,7 @@
 <table width="100%" style="table-layout:fixed;">
   <tr>
     <!-- Featured Projects Column -->
-    <td width="45%" valign="top" style="padding-right:5%; white-space:normal; word-wrap:break-word;">
+    <td width="40%" valign="top" style="padding-right:5%; white-space:normal; word-wrap:break-word;">
       <h3>🌟 Featured Projects</h3>
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
@@ -68,7 +68,7 @@
       </table>
     </td>
     <!-- Education Column -->
-    <td width="45%" valign="top" style="white-space:normal; word-wrap:break-word;">
+    <td width="60%" valign="top" style="white-space:normal; word-wrap:break-word;">
       <h3>🎓 Education & Certifications</h3>
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
@@ -135,3 +135,4 @@
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 </p>
+
