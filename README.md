@@ -29,7 +29,7 @@
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
           <tr>
-            <th align="left" style="white-space:normal;">Project</th>
+            <th align="left" style="white-space:normal;">Project</th> 
             <th align="left" style="white-space:normal;">Tech Stack</th>
             <th align="left" style="white-space:normal;">Highlight</th>
             <th align="left" style="white-space:normal;">Link</th>
