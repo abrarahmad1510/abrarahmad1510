@@ -9,7 +9,7 @@
 </p>
 
 # Hi Everyone, I’m **Abrar**  
-#### _Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | ML Engineer_
+#### Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/">
