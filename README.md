@@ -13,26 +13,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abrarahmad.professional@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://abrarislive.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/abrarahmad1510">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/myselfab1510/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40" />
@@ -45,51 +44,55 @@
 ---
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="48%" valign="top">
         <h3>🚀 Featured Projects</h3>
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **DriveMate AI** | End-to-end autonomous navigation system featuring lane detection and obstacle recognition. Achieved **98%** accuracy on test dataset. | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" /> | [Repo](https://github.com/abrarahmad1510/drivemate-ai) |
-| **1DayIntern** | AI-driven mock internship platform automating interview scenarios and feedback generation. Processed **5k+** user sessions in beta. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" /> | [Live](https://internatyourownrisk.tech/) |
-| **DigiTag** | Blockchain-based anti-counterfeit verification enabling real-time product authentication. Handled **1k+** transactions on testnet. | <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" /> | [Site](https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/) |
-
+        <table>
+          <tr>
+            <th align="left">Project</th>
+            <th align="left">Tech &nbsp;Stack</th>
+            <th align="left">Highlight</th>
+            <th align="left">Link</th>
+          </tr>
+          <tr>
+            <td><strong>DriveMate AI</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" />
+              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" />
+              <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" />
+            </td>
+            <td>Lane & obstacle detection with <strong>98%</strong> accuracy</td>
+            <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
+          </tr>
+          <tr>
+            <td><strong>1DayIntern</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" />
+              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
+            </td>
+            <td>Processed <strong>5k+</strong> mock sessions in beta</td>
+            <td><a href="https://internatyourownrisk.tech/">Live</a></td>
+          </tr>
+          <tr>
+            <td><strong>DigiTag</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" />
+              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" />
+            </td>
+            <td>Handled <strong>1k+</strong> blockchain transactions</td>
+            <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
+          </tr>
+        </table>
       </td>
-      <td width="50%" valign="top">
+      <td width="4%"></td>
+      <td width="48%" valign="top">
         <h3>📊 GitHub Insights</h3>
         <p align="center">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%"/>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
         </p>
         <p align="center">
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🚀 Featured Projects</h3>
-        <ul>
-          <li><strong>DriveMate AI</strong>: Autonomous vehicle navigation using TensorFlow &amp; OpenCV. <a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></li>
-          <li><strong>1DayIntern</strong>: AI-powered mock intern platform built with React &amp; Node.js. <a href="https://internatyourownrisk.tech/">Live</a></li>
-          <li><strong>DigiTag</strong>: Decentralized blockchain-based anti-counterfeit solution. <a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📊 GitHub Insights</h3>
-        <p align="center">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%"/>
-        </p>
-        <p align="center">
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%"/>
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
         </p>
       </td>
     </tr>
@@ -99,7 +102,6 @@
 ---
 
 ## 💼 Career Highlights
-
 <div align="center">
   <table>
     <tr>
@@ -128,7 +130,6 @@
 ---
 
 ## 🎓 Education & Certifications
-
 <div align="center">
   <table>
     <tr>
@@ -157,26 +158,24 @@
 ---
 
 ## 🤝 Let’s Connect
-
 <p align="center">
   <em>Open to internships, collaborations, and industry talks.</em>
 </p>
-
 <p align="center">
   <a href="mailto:abrarahmad.professional@gmail.com">
-    <img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/">
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29ABE2&width=600&lines=Open+for+Collaborations!;AI+•+Cloud+•+Systems+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29ABE2&width=600&lines=Open+for+Collaborations!;AI+•+Cloud+•+Systems+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/abrarahmad1510/abrarahmad1510/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid" width="800"/>
+  <img src="https://github.com/abrarahmad1510/abrarahmad1510/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid" width="800" />
 </p>
