@@ -5,7 +5,7 @@
   --------------------------------------------------------
 -->
 # Hi Everyone, I’m **Abrar**  
-<h3 align = "center">Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer</h3>
+<h4 align = "center">Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
