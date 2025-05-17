@@ -30,7 +30,7 @@
 
 <div align="center" style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
   <div style="flex:1; max-width:45%;">
-    <h3>🚀 Featured Projects</h3>
+    <h3>🌟 Featured Projects</h3>
     <table width="100%" style="border-collapse:collapse;">
       <thead>
         <tr>
@@ -73,7 +73,7 @@
     </table>
   </div>
   <div style="flex:1; max-width:45%;">
-    <h3>📊 GitHub Insights</h3>
+    <h3>📈 GitHub Insights</h3>
     <div align="center">
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
     </div>
