@@ -42,7 +42,10 @@
               <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="12" />
               <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="12" />
             </td>
-            <td>Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
+            <td style="white-space:normal;">
+              Lane &amp; obstacle detection<br>
+              with <strong>98%</strong> accuracy
+            </td>
             <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
           </tr>
           <tr>
@@ -51,7 +54,10 @@
               <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="12" />
               <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="12" />
             </td>
-            <td>Processed <strong>5k+</strong> mock sessions in beta</td>
+            <td style="white-space:normal;">
+              Processed <strong>5k+</strong><br>
+              mock sessions in beta
+            </td>
             <td><a href="https://internatyourownrisk.tech/">Live</a></td>
           </tr>
           <tr>
@@ -60,7 +66,10 @@
               <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="12" />
               <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="12" />
             </td>
-            <td>Handled <strong>1k+</strong> blockchain transactions</td>
+            <td style="white-space:normal;">
+              Handled <strong>1k+</strong><br>
+              blockchain transactions
+            </td>
             <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
           </tr>
         </tbody>
