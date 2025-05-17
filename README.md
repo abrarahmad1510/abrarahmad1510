@@ -72,6 +72,9 @@
       </tbody>
     </table>
   </div>
+  
+  --- 
+  
   <div style="flex:1; max-width:45%;">
     <h3>📈 GitHub Insights</h3>
     <div align="center">
