@@ -11,7 +11,7 @@
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://abrarislive.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/abrarahmad1510"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1Jx46095Ik56h0qTjzAlsQRHBzQ0Ni-Wz/view?usp=sharing"><img alt="Instagram" src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1Jx46095Ik56h0qTjzAlsQRHBzQ0Ni-Wz/view?usp=sharing"><img alt="Instagram" src="https://img.shields.io/badge/Resume-E4405F?style=for-the-badge&logo=resume&logoColor=white" /></a>
 </p>
 
 ---
