@@ -43,8 +43,8 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <div style="flex: 1; min-width: 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%;">
+  <div style="flex: 1; max-width: 48%;">
     <h3>🚀 Featured Projects</h3>
     <table width="100%">
       <tr>
@@ -83,6 +83,16 @@
       </tr>
     </table>
   </div>
+  <div style="flex: 1; max-width: 48%;">
+    <h3>📊 GitHub Insights</h3>
+    <div align="center">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
+    </div>
+    <div align="center">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
+    </div>
+  </div>
+</div>
   <div style="flex: 1; min-width: 0;">
     <h3>📊 GitHub Insights</h3>
     <p align="center">
