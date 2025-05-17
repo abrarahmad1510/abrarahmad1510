@@ -159,7 +159,7 @@
 ---
 
 ## 🤝 Let’s Connect
-<p align="center"><em>Open to internships, collaborations, and industry talks.</em></p>
+<p align="center"><em>Open to Internships, Collaborations, Freelancing & Tech Talks</em></p>
 <p align="center">
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
