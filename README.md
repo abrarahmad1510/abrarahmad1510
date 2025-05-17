@@ -21,7 +21,7 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white" height="40" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-FF6F00?logo=tensorflow&logoColor=white" height="40" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="40" />
+  <img alt="AWS" src="https://img.shields.io/badge/-232F3E?logo=amazon&logoColor=white" height="40" />
   <img alt="Docker" src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white" height="40" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-326CE5?logo=kubernetes&logoColor=white" height="40" />
   <img alt="Go" src="https://img.shields.io/badge/-00ADD8?logo=go&logoColor=white" height="40" />
