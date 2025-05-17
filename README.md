@@ -49,6 +49,34 @@
     <tr>
       <td width="50%" valign="top">
         <h3>🚀 Featured Projects</h3>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **DriveMate AI** | End-to-end autonomous navigation system featuring lane detection and obstacle recognition. Achieved **98%** accuracy on test dataset. | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" /> | [Repo](https://github.com/abrarahmad1510/drivemate-ai) |
+| **1DayIntern** | AI-driven mock internship platform automating interview scenarios and feedback generation. Processed **5k+** user sessions in beta. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" /> | [Live](https://internatyourownrisk.tech/) |
+| **DigiTag** | Blockchain-based anti-counterfeit verification enabling real-time product authentication. Handled **1k+** transactions on testnet. | <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" /> | [Site](https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/) |
+
+      </td>
+      <td width="50%" valign="top">
+        <h3>📊 GitHub Insights</h3>
+        <p align="center">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%"/>
+        </p>
+        <p align="center">
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 Featured Projects</h3>
         <ul>
           <li><strong>DriveMate AI</strong>: Autonomous vehicle navigation using TensorFlow &amp; OpenCV. <a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></li>
           <li><strong>1DayIntern</strong>: AI-powered mock intern platform built with React &amp; Node.js. <a href="https://internatyourownrisk.tech/">Live</a></li>
