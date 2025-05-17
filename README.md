@@ -1,6 +1,5 @@
 <!--
   --------------------------------------------------------
-  
   🌟 README for Abrar Ahmad
   --------------------------------------------------------
 -->
@@ -29,34 +28,34 @@
 
 ---
 
-<div align="center" style="display:flex; gap:24px; flex-wrap:wrap; justify-content:space-between;">
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 24px; align-items: start;">
   <!-- Education Column -->
-  <div style="flex:1; min-width:280px; max-width:30%;">
+  <div>
     <h3>🎓 Education & Certifications</h3>
-    <table style="width:100%; border-collapse:collapse;">
+    <table style="width: 100%; border-collapse: collapse;">
       <tr>
-        <td style="padding:8px;"><strong>University of Waterloo</strong></td>
-        <td style="padding:8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
+        <td style="padding: 8px;"><strong>University of Waterloo</strong></td>
+        <td style="padding: 8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
       </tr>
       <tr>
-        <td style="padding:8px;"><strong>AWS</strong></td>
-        <td style="padding:8px;">Certified Solutions Architect – Associate</td>
+        <td style="padding: 8px;"><strong>AWS</strong></td>
+        <td style="padding: 8px;">Certified Solutions Architect – Associate</td>
       </tr>
       <tr>
-        <td style="padding:8px;"><strong>Stanford (Coursera)</strong></td>
-        <td style="padding:8px;">Machine Learning by Andrew Ng</td>
+        <td style="padding: 8px;"><strong>Stanford (Coursera)</strong></td>
+        <td style="padding: 8px;">Machine Learning by Andrew Ng</td>
       </tr>
       <tr>
-        <td style="padding:8px;"><strong>Google Cloud</strong></td>
-        <td style="padding:8px;">Professional Cloud Architect</td>
+        <td style="padding: 8px;"><strong>Google Cloud</strong></td>
+        <td style="padding: 8px;">Professional Cloud Architect</td>
       </tr>
     </table>
   </div>
 
   <!-- Projects Column -->
-  <div style="flex:1; min-width:300px; max-width:65%;">
+  <div>
     <h3>🌟 Featured Projects</h3>
-    <table width="100%" style="border-collapse:collapse;">
+    <table style="width: 100%; border-collapse: collapse;">
       <thead>
         <tr>
           <th align="left">Project</th>
@@ -101,35 +100,37 @@
 
 ---
 
-<div align="center" style="margin: 2rem auto;">
-  <h3>📈 GitHub Insights</h3>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" style="max-width:100%;" />
+<div style="margin: 2rem auto;">
+  <h3 align="center">📈 GitHub Insights</h3>
+  <div align="center">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" style="max-width: 100%;" />
+  </div>
 </div>
 
 ---
 
 ## 💼 Career Highlights
-<div align="center">
-  <table style="width:100%; border-collapse:collapse;">
+<div>
+  <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <th align="left" style="padding:8px;">Company</th>
-      <th align="left" style="padding:8px;">Key Impact</th>
-      <th align="left" style="padding:8px;">Tech &amp; Tools</th>
+      <th align="left" style="padding: 8px;">Company</th>
+      <th align="left" style="padding: 8px;">Key Impact</th>
+      <th align="left" style="padding: 8px;">Tech &amp; Tools</th>
     </tr>
     <tr>
-      <td style="padding:8px;"><strong>Microsoft</strong> (Incoming ’25)</td>
-      <td style="padding:8px;">• Architected backend APIs to scale 2× user load<br>• Designed reliability tests reducing incidents 20%</td>
-      <td style="padding:8px;">Azure · C# · gRPC</td>
+      <td style="padding: 8px;"><strong>Microsoft</strong> (Incoming ’25)</td>
+      <td style="padding: 8px;">• Architected backend APIs to scale 2× user load<br>• Designed reliability tests reducing incidents 20%</td>
+      <td style="padding: 8px;">Azure · C# · gRPC</td>
     </tr>
     <tr>
-      <td style="padding:8px;"><strong>Uber Business</strong> (2023–24)</td>
-      <td style="padding:8px;">• Cut ML pipeline latency by 15%<br>• Deployed microservices that improved ETA accuracy by 12%</td>
-      <td style="padding:8px;">Python · Go · Cassandra · Docker</td>
+      <td style="padding: 8px;"><strong>Uber Business</strong> (2023–24)</td>
+      <td style="padding: 8px;">• Cut ML pipeline latency by 15%<br>• Deployed microservices that improved ETA accuracy by 12%</td>
+      <td style="padding: 8px;">Python · Go · Cassandra · Docker</td>
     </tr>
     <tr>
-      <td style="padding:8px;"><strong>Augurs Technologies</strong> (2022–23)</td>
-      <td style="padding:8px;">• Automated data ingestion saving 10+ hrs/week<br>• Built dashboards driving 8% QoQ revenue growth</td>
-      <td style="padding:8px;">React · Node.js · PostgreSQL</td>
+      <td style="padding: 8px;"><strong>Augurs Technologies</strong> (2022–23)</td>
+      <td style="padding: 8px;">• Automated data ingestion saving 10+ hrs/week<br>• Built dashboards driving 8% QoQ revenue growth</td>
+      <td style="padding: 8px;">React · Node.js · PostgreSQL</td>
     </tr>
   </table>
 </div>
