@@ -77,9 +77,6 @@
     <div align="center">
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
     </div>
-    <div align="center" style="margin-top:12px;">
-      <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
-    </div>
   </div>
 </div>
 
