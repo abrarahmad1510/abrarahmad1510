@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/myselfab1510/">
-    <img src="https://img.shields.io/badge/Instagram-4285F4?style=for-the-badge&logo=Instagram&logoColor=pink" />
+    <img src="https://img.shields.io/badge/Instagram-4285F4?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
