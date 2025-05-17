@@ -6,25 +6,44 @@
 # Hi Everyone, I’m **Abrar**  
 #### Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer
 
+---
+
+## Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://abrarislive.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/abrarahmad1510"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/myselfab1510"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://abrarislive.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="40" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="40" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="40" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="40" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="40" />
-</p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center; margin: 2rem 0;">
+  <div>
+    <h2>1,287</h2>
+    <p style="margin: 0; color: #666">Total Contributions<br><small>Jan 13, 2023 - Present</small></p>
+  </div>
+  <div>
+    <h2>17</h2>
+    <p style="margin: 0; color: #666">Current Streak<br><small>May 17</small></p>
+  </div>
+  <div>
+    <h2>135</h2>
+    <p style="margin: 0; color: #666">Longest Streak<br><small>Jan 1 - May 15</small></p>
+  </div>
+</div>
+
+---
+
+## Tech Arsenal
+### Most Used Languages
+<pre style="background-color: #f6f8fa; padding: 1rem; border-radius: 6px;">
+<span style="color: #3572A5">■</span> Jupyter Notebook  45.01%  
+<span style="color: #3178c6">■</span> TypeScript        7.81%  
+<span style="color: #3572A5">■</span> Python           26.66%  
+<span style="color: #e34c26">■</span> HTML              3.61%  
+<span style="color: #f1e05a">■</span> JavaScript       16.57%  
+<span style="color: #F05138">■</span> Swift             0.35%
+</pre>
 
 ---
 
