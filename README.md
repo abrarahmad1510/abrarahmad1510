@@ -140,17 +140,17 @@
     </tr>
     <tr>
       <td style="padding:8px;"><strong>Microsoft</strong> (Incoming ’25)</td>
-      <td style="padding:8px;">• Architected backend APIs to scale 2× user load<br>• Designed reliability tests reducing incidents 20%</td>
+      <td style="padding:8px;">•Architected backend APIs to scale 2× user load<br>•Designed reliability tests reducing incidents 20%</td>
       <td style="padding:8px;">Azure · C# · gRPC</td>
     </tr>
     <tr>
       <td style="padding:8px;"><strong>Uber Business</strong> (2023–24)</td>
-      <td style="padding:8px;">• Cut ML pipeline latency by 15%<br>• Deployed microservices that improved ETA accuracy by 12%</td>
+      <td style="padding:8px;">•Cut ML pipeline latency by 15%<br>•Deployed microservices that improved ETA accuracy by 12%</td>
       <td style="padding:8px;">Python · Go · Cassandra · Docker</td>
     </tr>
     <tr>
       <td style="padding:8px;"><strong>Augurs Technologies</strong> (2022–23)</td>
-      <td style="padding:8px;">• Automated data ingestion saving 10+ hrs/week<br>• Built dashboards driving 8% QoQ revenue growth</td>
+      <td style="padding:8px;">•Automated data ingestion saving 10+ hrs/week<br>•Built dashboards driving 8% QoQ revenue growth</td>
       <td style="padding:8px;">React · Node.js · PostgreSQL</td>
     </tr>
   </table>
