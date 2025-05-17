@@ -87,8 +87,8 @@
 ---
 
 ## 💼 Career Highlights
-<div align="center">
-  <table style="width:100%; border-collapse:collapse;">
+<div align="left">
+  <table style="width:50%; border-collapse:collapse;">
     <tr>
       <th align="left" style="padding:8px;">Company</th>
       <th align="left" style="padding:8px;">Key Impact</th>
@@ -115,8 +115,8 @@
 ---
 
 ## 🎓 Education & Certifications
-<div align="center">
-  <table style="width:100%; border-collapse:collapse;">
+<div align="right">
+  <table style="width:50%; border-collapse:collapse;">
     <tr>
       <th align="left" style="padding:8px;">Institution</th>
       <th align="left" style="padding:8px;">Details</th>
