@@ -51,7 +51,6 @@
           </td>
           <td>Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
           <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
-          
         </tr>
         <tr>
           <td><strong>1DayIntern</strong></td>
