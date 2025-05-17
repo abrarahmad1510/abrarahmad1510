@@ -88,11 +88,17 @@
         <tbody>
           <tr>
             <td><strong>University of Waterloo</strong></td>
-            <td>B.CS (‘23–’28) · AI/ML Specialization · Dean’s List</td>
+            <td style="white-space:normal;">
+              B.CS (‘23–’28) · AI/ML Specialization<br>
+              · Dean’s List
+            </td>
           </tr>
           <tr>
             <td><strong>AWS</strong></td>
-            <td>Certified Solutions Architect – Associate</td>
+            <td style="white-space:normal;">
+              Certified Solutions Architect<br>
+              – Associate
+            </td>
           </tr>
           <tr>
             <td><strong>Stanford (Coursera)</strong></td>
@@ -120,17 +126,17 @@
   </tr>
   <tr>
     <td><strong>Microsoft</strong> (Incoming ’25)</td>
-    <td>Architected backend APIs to scale 2× user load; Designed reliability tests reducing incidents 20%</td>
+    <td>Architected backend APIs to scale 2× user load;<br>Designed reliability tests reducing incidents 20%</td>
     <td>Azure · C# · gRPC</td>
   </tr>
   <tr>
     <td><strong>Uber Business</strong> (2023–24)</td>
-    <td>Cut ML pipeline latency by 15%; Deployed microservices improving ETA accuracy by 12%</td>
+    <td>Cut ML pipeline latency by 15%;<br>Deployed microservices improving ETA accuracy 12%</td>
     <td>Python · Go · Cassandra · Docker</td>
   </tr>
   <tr>
     <td><strong>Augurs Technologies</strong> (2022–23)</td>
-    <td>Automated data ingestion saving 10+ hrs/week; Built dashboards driving 8% QoQ revenue growth</td>
+    <td>Automated data ingestion saving 10+ hrs/week;<br>Built dashboards driving 8% QoQ revenue growth</td>
     <td>React · Node.js · PostgreSQL</td>
   </tr>
 </table>
@@ -143,3 +149,4 @@
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 </p>
+
