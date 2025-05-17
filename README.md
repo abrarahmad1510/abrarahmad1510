@@ -25,7 +25,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white" height="40" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-326CE5?logo=kubernetes&logoColor=white" height="40" />
   <img alt="Go" src="https://img.shields.io/badge/-00ADD8?logo=go&logoColor=white" height="40" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2b%2b&logoColor=white" height="40" />
+  <img alt="C++" src="https://img.shields.io/badge/-00599C?logo=c%2b%2b&logoColor=white" height="40" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white" height="40" />
   <img alt="React" src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black" height="40" />
   <img alt="Vercel" src="https://img.shields.io/badge/-000000?logo=vercel&logoColor=white" height="40" />
