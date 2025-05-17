@@ -24,15 +24,15 @@
 <table width="100%" style="table-layout:fixed;">
   <tr>
     <!-- Featured Projects Column -->
-    <td width="40%" valign="top" style="padding-right:5%; white-space:normal; word-wrap:break-word;">
+    <td width="35%" valign="top" style="padding-right:4%; white-space:normal; word-wrap:break-word;">
       <h3>🌟 Featured Projects</h3>
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
           <tr>
-            <th align="left" style="white-space:normal;">Project</th> 
-            <th align="left" style="white-space:normal;">Tech Stack</th>
-            <th align="left" style="white-space:normal;">Highlight</th>
-            <th align="left" style="white-space:normal;">Link</th>
+            <th align="left">Project</th>
+            <th align="left">Tech</th>
+            <th align="left">Highlight</th>
+            <th align="left">Link</th>
           </tr>
         </thead>
         <tbody>
@@ -41,9 +41,8 @@
             <td>
               <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="14" />
               <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="14" />
-              <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="14" />
             </td>
-            <td style="white-space:normal;">Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
+            <td>98% lane & obstacle detection</td>
             <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
           </tr>
           <tr>
@@ -52,7 +51,7 @@
               <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="14" />
               <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="14" />
             </td>
-            <td style="white-space:normal;">Processed <strong>5k+</strong> mock sessions in beta</td>
+            <td>5k+ sessions processed</td>
             <td><a href="https://internatyourownrisk.tech/">Live</a></td>
           </tr>
           <tr>
@@ -61,14 +60,14 @@
               <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="14" />
               <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="14" />
             </td>
-            <td style="white-space:normal;">Handled <strong>1k+</strong> blockchain transactions</td>
+            <td>1k+ blockchain txns</td>
             <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
           </tr>
         </tbody>
       </table>
     </td>
     <!-- Education Column -->
-    <td width="60%" valign="top" style="white-space:normal; word-wrap:break-word;">
+    <td width="65%" valign="top" style="white-space:normal; word-wrap:break-word;">
       <h3>🎓 Education & Certifications</h3>
       <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
         <thead>
@@ -112,17 +111,17 @@
   </tr>
   <tr>
     <td><strong>Microsoft</strong> (Incoming ’25)</td>
-    <td style="white-space:normal;">• Architected backend APIs to scale 2× user load<br>• Designed reliability tests reducing incidents 20%</td>
+    <td style="white-space:normal;">• Architected backend APIs to 2× user load; 20% fewer incidents</td>
     <td>Azure · C# · gRPC</td>
   </tr>
   <tr>
     <td><strong>Uber Business</strong> (2023–24)</td>
-    <td style="white-space:normal;">• Cut ML pipeline latency by 15%<br>• Deployed microservices that improved ETA accuracy by 12%</td>
+    <td style="white-space:normal;">• Cut ML pipeline latency 15%; Improved ETA accuracy 12%</td>
     <td>Python · Go · Cassandra · Docker</td>
   </tr>
   <tr>
     <td><strong>Augurs Technologies</strong> (2022–23)</td>
-    <td style="white-space:normal;">• Automated data ingestion saving 10+ hrs/week<br>• Built dashboards driving 8% QoQ revenue growth</td>
+    <td style="white-space:normal;">• Saved 10+ hrs/week with automated ingestion; 8% QoQ revenue growth</td>
     <td>React · Node.js · PostgreSQL</td>
   </tr>
 </table>
@@ -135,4 +134,3 @@
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
 </p>
-
