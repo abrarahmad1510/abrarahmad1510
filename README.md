@@ -1,8 +1,3 @@
---------------------------------------------------------
-  🌟 README for Abrar Ahmad
-  
-  --------------------------------------------------------
--->
 # Hi Everyone, I’m **Abrar**  
 <h4 align = "center">Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer</h4>
 
