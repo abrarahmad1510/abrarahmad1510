@@ -32,7 +32,7 @@
 <div align="center" style="display:flex; gap:24px; flex-wrap:wrap; justify-content:center;">
   <div style="flex:1; max-width:45%;">
     <h3>🌟 Featured Projects</h3>
-    <table width="100%" style="border-collapse:collapse;">
+    <table width="50%" style="border-collapse:collapse;">
       <thead>
         <tr>
           <th align="left">Project</th>
@@ -72,6 +72,28 @@
         </tr>
       </tbody>
     </table>
+    <table style="width:50%; border-collapse:collapse;">
+    <tr>
+      <th align="left" style="padding:8px;">Institution</th>
+      <th align="left" style="padding:8px;">Details</th>
+    </tr>
+    <tr>
+      <td style="padding:8px;"><strong>University of Waterloo</strong></td>
+      <td style="padding:8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;"><strong>AWS</strong></td>
+      <td style="padding:8px;">Certified Solutions Architect – Associate</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;"><strong>Stanford (Coursera)</strong></td>
+      <td style="padding:8px;">Machine Learning by Andrew Ng</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;"><strong>Google Cloud</strong></td>
+      <td style="padding:8px;">Professional Cloud Architect</td>
+    </tr>
+  </table>
   </div>
   
   --- 
@@ -87,8 +109,8 @@
 ---
 
 ## 💼 Career Highlights
-<div align="left">
-  <table style="width:50%; border-collapse:collapse;">
+<div align="center">
+  <table style="width:100%; border-collapse:collapse;">
     <tr>
       <th align="left" style="padding:8px;">Company</th>
       <th align="left" style="padding:8px;">Key Impact</th>
@@ -115,8 +137,8 @@
 ---
 
 ## 🎓 Education & Certifications
-<div align="right">
-  <table style="width:50%; border-collapse:collapse;">
+<div align="center">
+  <table style="width:100%; border-collapse:collapse;">
     <tr>
       <th align="left" style="padding:8px;">Institution</th>
       <th align="left" style="padding:8px;">Details</th>
