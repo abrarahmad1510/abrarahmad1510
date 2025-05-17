@@ -71,6 +71,10 @@
             </td>
             <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
           </tr>
+                  <tr>
+            <td><strong>IBM</strong></td>
+            <td>Full Stack Development</td>
+          </tr>
         </tbody>
       </table>
     </td>
