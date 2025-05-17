@@ -88,10 +88,10 @@
       <td width="50%" valign="top">
         <h3>📊 GitHub Insights</h3>
         <p align="center">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="90%" />
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
         </p>
         <p align="center">
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="90%" />
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
         </p>
       </td>
     </tr>
