@@ -7,7 +7,6 @@
   <a href="https://abrarislive.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/abrarahmad1510"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1Jx46095Ik56h0qTjzAlsQRHBzQ0Ni-Wz/view?usp=sharing" target="_blank" rel="noopener"><img alt="Resume" src="https://img.shields.io/badge/Resume-Lightgrey?style=for-the-badge&logo=file-pdf&logoColor=white" /></a>
-  <a href="https://instagram.com/myselfab1510"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.fiverr.com/yourusername"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/yourusername"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1FB57B?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://discord.gg/yourserver"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -26,7 +25,6 @@
   <img alt="C++" src="https://img.shields.io/badge/-00599C?logo=c%2b%2b&logoColor=white" height="40" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white" height="40" />
   <img alt="React" src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black" height="40" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-000000?logo=vercel&logoColor=white" height="40" />
   <img alt="Pandas" src="https://img.shields.io/badge/-150458?logo=pandas&logoColor=white" height="40" />
   <img alt="NumPy" src="https://img.shields.io/badge/-013243?logo=numpy&logoColor=white" height="40" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-000000?logo=github-actions&logoColor=white" height="40" />
