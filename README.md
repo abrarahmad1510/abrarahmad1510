@@ -14,6 +14,12 @@
   <a href="https://www.instagram.com/myselfab1510/">
     <img src="https://img.shields.io/badge/Instagram-4285F4?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
+  <a href="your-upwork-profile">
+    <img src="https://img.shields.io/badge/Upwork-4285F4?style=for-the-badge&logo=Upwork&logoColor=white" />
+  </a>
+  <a href="your-fiverr-portfolio">
+    <img src="https://img.shields.io/badge/fiverr-4285F4?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
 </p>
 
 ---
