@@ -85,6 +85,7 @@
 ## 💼 Career Highlights
 <div align="center">
   <table style="width:100%; border-collapse:collapse;">
+    
     <tr>
       <th align="left" style="padding:8px;">Company</th>
       <th align="left" style="padding:8px;">Key Impact</th>
