@@ -8,8 +8,8 @@
   <img src="https://user-images.githubusercontent.com/abrarahmad1510/brand-banner.png" alt="Abrar Ahmad Banner" width="800"/>
 </p>
 
-# Hi Everyone, I’m **Abrar**  
-#### Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer
+# 👋 Hi there, I’m **Abrar Ahmad**  
+#### _Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | ML Engineer_
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/">
@@ -46,12 +46,12 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="48%" valign="top">
+      <td width="50%" valign="top">
         <h3>🚀 Featured Projects</h3>
-        <table>
+        <table width="100%">
           <tr>
             <th align="left">Project</th>
-            <th align="left">Tech &nbsp;Stack</th>
+            <th align="left">Tech Stack</th>
             <th align="left">Highlight</th>
             <th align="left">Link</th>
           </tr>
@@ -62,7 +62,7 @@
               <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" />
               <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" />
             </td>
-            <td>Lane & obstacle detection with <strong>98%</strong> accuracy</td>
+            <td>Lane & amp; obstacle detection with <strong>98%</strong> accuracy</td>
             <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
           </tr>
           <tr>
@@ -85,14 +85,13 @@
           </tr>
         </table>
       </td>
-      <td width="4%"></td>
-      <td width="48%" valign="top">
+      <td width="50%" valign="top">
         <h3>📊 GitHub Insights</h3>
         <p align="center">
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="90%" />
         </p>
         <p align="center">
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%" />
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="90%" />
         </p>
       </td>
     </tr>
