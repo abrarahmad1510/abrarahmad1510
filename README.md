@@ -2,17 +2,17 @@
 **`Incoming SWE @Microsoft | Prev SWE @Uber Business | UofWaterloo CS | Backend Specialist | Machine Learning Engineer`**  
 
 <p align="center">
-  <a href="your-linkedin">
+  <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=abrarahmad.professional@gmail.com&su=Subject&tf=cm">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
-  <a href="your-portfolio">
+  <a href="https://abrarislive.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="your-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.instagram.com/myselfab1510/">
+    <img src="https://img.shields.io/badge/Instagram-4285F4?style=for-the-badge&logo=Instagram&logoColor=pink" />
   </a>
 </p>
 
