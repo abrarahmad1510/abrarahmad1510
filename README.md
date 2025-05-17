@@ -10,7 +10,6 @@
 
 ---
 
-
 ## ⚙️ Tech Stack
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" />
@@ -87,14 +86,11 @@
         <tbody>
           <tr>
             <td><strong>UofWaterloo</strong></td>
-            <td style="white-space:normal;">
-              B.CS ‘23–‘28 (AI/ML)<br>
-              Dean’s List
-            </td>
+            <td style="white-space:normal;">B.CS ‘23–‘28 (AI/ML) · Dean’s List</td>
           </tr>
           <tr>
             <td><strong>AWS</strong></td>
-            <td style="white-space:normal;">Cert. Solutions Architect<br>Associate</td>
+            <td style="white-space:normal;">Cert. Solutions Architect · Associate</td>
           </tr>
           <tr>
             <td><strong>Stanford</strong></td>
@@ -145,4 +141,3 @@
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="20"/></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a>
 </p>
-
