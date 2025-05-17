@@ -4,7 +4,7 @@
   --------------------------------------------------------
 -->
 # Hi Everyone, I’m **Abrar**  
-#### Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer
+#### Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer 
 
 ---
 
