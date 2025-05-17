@@ -48,27 +48,21 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-
-### 🚀 Featured Projects
-
-| Project      | Description                                                     | Link                                                                 |
-|--------------|-----------------------------------------------------------------|----------------------------------------------------------------------|
-| DriveMate AI | Autonomous vehicle navigation using TensorFlow & OpenCV.        | [Repo](https://github.com/abrarahmad1510/drivemate-ai)              |
-| 1DayIntern   | AI-powered mock intern platform built with React & Node.js.     | [Live](https://internatyourownrisk.tech/)                           |
-| DigiTag      | Decentralized blockchain-based anti-counterfeit solution.        | [Site](https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/)                |
-
+        <h3>🚀 Featured Projects</h3>
+        <ul>
+          <li><strong>DriveMate AI</strong>: Autonomous vehicle navigation using TensorFlow &amp; OpenCV. <a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></li>
+          <li><strong>1DayIntern</strong>: AI-powered mock intern platform built with React &amp; Node.js. <a href="https://internatyourownrisk.tech/">Live</a></li>
+          <li><strong>DigiTag</strong>: Decentralized blockchain-based anti-counterfeit solution. <a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></li>
+        </ul>
       </td>
       <td width="50%" valign="top">
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%"/>
-</p>
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%"/>
-</p>
-
+        <h3>📊 GitHub Insights</h3>
+        <p align="center">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%"/>
+        </p>
+        <p align="center">
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=abrarahmad1510&theme=dark" width="100%"/>
+        </p>
       </td>
     </tr>
   </table>
@@ -83,7 +77,7 @@
     <tr>
       <th align="left" width="30%">Company</th>
       <th align="left" width="45%">Key Impact</th>
-      <th align="left" width="25%">Tech & Tools</th>
+      <th align="left" width="25%">Tech &amp; Tools</th>
     </tr>
     <tr>
       <td>**Microsoft** (Incoming ’25)</td>
