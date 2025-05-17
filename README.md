@@ -158,34 +158,6 @@
 
 ---
 
-## 🎓 Education & Certifications
-<div align="center">
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <th align="left" style="padding:8px;">Institution</th>
-      <th align="left" style="padding:8px;">Details</th>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>University of Waterloo</strong></td>
-      <td style="padding:8px;">B.CS (’23–’28) · AI/ML Specialization · Dean’s List</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>AWS</strong></td>
-      <td style="padding:8px;">Certified Solutions Architect – Associate</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Stanford (Coursera)</strong></td>
-      <td style="padding:8px;">Machine Learning by Andrew Ng</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Google Cloud</strong></td>
-      <td style="padding:8px;">Professional Cloud Architect</td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🤝 Let’s Connect
 <p align="center"><em>Open to internships, collaborations, and industry talks.</em></p>
 <p align="center">
