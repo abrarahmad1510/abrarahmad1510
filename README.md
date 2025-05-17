@@ -20,31 +20,80 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="40" />
 </p>
 
-<!-- Side-by-side Featured Projects & Education -->
+<!-- Side by side: Projects on left, Education on right -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🌟 Featured Projects
-
-| Project          | Tech Stack                                                                                                                                     | Highlight                                        | Link                                               |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
-| **DriveMate AI** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" /> | Lane &amp; obstacle detection with **98%** accuracy | [Repo](https://github.com/abrarahmad1510/drivemate-ai) |
-| **1DayIntern**   | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />                        | Processed **5k+** mock sessions in beta           | [Live](https://internatyourownrisk.tech/)           |
-| **DigiTag**      | <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" />                    | Handled **1k+** blockchain transactions           | [Site](https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/) |
-
+    <td valign="top" width="50%">
+      <h3>🌟 Featured Projects</h3>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Project</th>
+            <th align="left">Tech Stack</th>
+            <th align="left">Highlight</th>
+            <th align="left">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>DriveMate AI</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20" />
+              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20" />
+              <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20" />
+            </td>
+            <td>Lane &amp; obstacle detection with <strong>98%</strong> accuracy</td>
+            <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
+          </tr>
+          <tr>
+            <td><strong>1DayIntern</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="20" />
+              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="20" />
+            </td>
+            <td>Processed <strong>5k+</strong> mock sessions in beta</td>
+            <td><a href="https://internatyourownrisk.tech/">Live</a></td>
+          </tr>
+          <tr>
+            <td><strong>DigiTag</strong></td>
+            <td>
+              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="20" />
+              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="20" />
+            </td>
+            <td>Handled <strong>1k+</strong> blockchain transactions</td>
+            <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
+          </tr>
+        </tbody>
+      </table>
     </td>
-    <td width="50%" valign="top">
-
-### 🎓 Education & Certifications
-
-| Institution                 | Details                                                        |
-| --------------------------- | -------------------------------------------------------------- |
-| **University of Waterloo**  | B.CS (‘23–’28) · AI/ML Specialization · Dean’s List            |
-| **AWS**                     | Certified Solutions Architect – Associate                     |
-| **Stanford (Coursera)**     | Machine Learning by Andrew Ng                                 |
-| **Google Cloud**            | Professional Cloud Architect                                  |
-
+    <td valign="top" width="50%">
+      <h3>🎓 Education & Certifications</h3>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Institution</th>
+            <th align="left">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>University of Waterloo</strong></td>
+            <td>B.CS (‘23–’28) · AI/ML Specialization · Dean’s List</td>
+          </tr>
+          <tr>
+            <td><strong>AWS</strong></td>
+            <td>Certified Solutions Architect – Associate</td>
+          </tr>
+          <tr>
+            <td><strong>Stanford (Coursera)</strong></td>
+            <td>Machine Learning by Andrew Ng</td>
+          </tr>
+          <tr>
+            <td><strong>Google Cloud</strong></td>
+            <td>Professional Cloud Architect</td>
+          </tr>
+        </tbody>
+      </table>
     </td>
   </tr>
 </table>
@@ -86,3 +135,4 @@
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email Me" src="https://img.shields.io/badge/📬%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
