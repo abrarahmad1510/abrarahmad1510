@@ -35,87 +35,59 @@
 </p>
 
 ---
-<!--code for the condensed two column table-->
-<table width="100%" style="table-layout:fixed;">
+
+<!-- Condensed GitHub Insights & Career Highlights side-by-side -->
+<table width="100%" style="table-layout:fixed; word-wrap:break-word;">
   <tr>
-    <td width="30%" valign="top" style="padding-right:4%; word-wrap:break-word; line-height:1.5;">
-      <h3>🌟 Featured Projects</h3>
-      <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
-        <thead>
-          <tr>
-            <th align="left">Project</th>
-            <th align="left">Tech</th>
-            <th align="left">Highlight</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><strong>DriveMate AI</strong></td>
-            <td>
-              <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="12" />
-              <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="12" />
-            </td>
-            <td style="white-space:normal;">
-              Lane &amp; obstacle detection<br>
-              (98% accuracy)
-            </td>
-          </tr>
-          <tr>
-            <td><strong>1DayIntern</strong></td>
-            <td>
-              <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="12" />
-              <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="12" />
-            </td>
-            <td style="white-space:normal;">
-              Processed 5k+ mock<br>
-              sessions in beta
-            </td>
-          </tr>
-          <tr>
-            <td><strong>DigiTag</strong></td>
-            <td>
-              <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" height="12" />
-              <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3js&logoColor=white" height="12" />
-            </td>
-            <td style="white-space:normal;">
-              Handled 1k+ blockchain<br>
-              transactions
-            </td>
-          </tr>   
-        </tbody>
-      </table>
+    <!-- GitHub Insights Column -->
+    <td width="40%" valign="top" style="padding-right:4%; line-height:1.4;">
+      <h3>📈 GitHub Insights</h3>
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true"
+        width="100%"
+      /><br><br>
+      <img
+        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmad1510&layout=compact&theme=dark"
+        width="100%"
+      />
     </td>
-    <td width="70%" valign="top" style="word-wrap:break-word; line-height:1.4;">
-      <h3>🎓 Education & Certifications</h3>
-      <table width="100%" style="table-layout:fixed; word-wrap:break-word;">
-        <thead>
-          <tr>
-            <th align="left">Institution</th>
-            <th align="left">Details</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><strong>UofWaterloo</strong></td>
-            <td style="white-space:normal;">B.CS ‘23–‘28 (AI/ML) · Dean’s List</td>
-          </tr>
-          <tr>
-            <td><strong>AWS</strong></td>
-            <td style="white-space:normal;">Cert. Solutions Architect · Associate</td>
-          </tr>
-          <tr>
-            <td><strong>Stanford</strong></td>
-            <td>Machine Learning by Andrew Ng</td>
-          </tr>
-          <tr>
-            <td><strong>Google Cloud</strong></td>
-            <td>Professional Cloud Architect</td>
-          </tr>
-          <tr>
-            <td><strong>IBM</strong></td>
-            <td>Full Stack Development</td>
-          </tr>
-        </tbody>
+    <!-- Career Highlights Column -->
+    <td width="60%" valign="top" style="line-height:1.4;">
+      <h3>💼 Career Highlights</h3>
+      <table width="100%" style="table-layout:fixed; border-collapse:collapse; word-wrap:break-word;">
+        <tr>
+          <th align="left" style="padding:8px;">Company</th>
+          <th align="left" style="padding:8px;">Key Impact</th>
+          <th align="left" style="padding:8px;">Tech &amp; Tools</th>
+        </tr>
+        <tr>
+          <td style="padding:8px;"><strong>Microsoft</strong> (’25)</td>
+          <td style="padding:8px;">
+            • Scaled APIs to 2× load<br>
+            • Cut incidents by 20%<br>
+            • Built ETL tests via Airflow
+          </td>
+          <td style="padding:8px;">Azure · C# · gRPC</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;"><strong>Uber Business</strong> (23–24)</td>
+          <td style="padding:8px;">
+            • Playwright + Jenkins CI/CD<br>
+            • Improved ETA by 12%<br>
+            • Java & Firebase retention ↑23.6%
+          </td>
+          <td style="padding:8px;">Python · Go · Cassandra</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;"><strong>Augurs Tech</strong> (22–23)</td>
+          <td style="padding:8px;">
+            • Automated ingestion (10+ hrs/wk)<br>
+            • Dashboards → 8% QoQ growth
+          </td>
+          <td style="padding:8px;">React · Node.js · PostgreSQL</td>
+        </tr>
       </table>
     </td>
   </tr>
