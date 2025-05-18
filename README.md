@@ -122,58 +122,57 @@
 </table>
 
 --- 
-  
-  <div style="flex:1; max-width:45%;">
-    <h3>📈 GitHub Insights</h3>
-    <div align="center">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true" width="100%" />
-    </div>
-  </div>
-</div>
-
----
-
-## 💼 Career Highlights
-<div align="center">
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <th align="left" style="padding:8px;">Company</th>
-      <th align="left" style="padding:8px;">Key Impact</th>
-      <th align="left" style="padding:8px;">Tech &amp; Tools</th>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Microsoft</strong> (Incoming ’25)</td>
-      <td style="padding:8px;">
-      •Architected backend APIs to scale 2× user load
-      <br>
-      •Designed reliability tests reducing incidents 20%
-      <br>
-      •Automated Tests using ETL Pipelines using Apache Airflow
-      </td>
-      <td style="padding:8px;">Azure · C# · gRPC</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Uber Business</strong> (2023–24)</td>
-      <td style="padding:8px;">
-      •Playwright Automation Scripts using Terraform & Jenkins 
-      <br>
-      •Deployed microservices that improved ETA accuracy by 12%
-      <br>
-      •Spearheaded backend using Java & Firebasi API improving a user retention rate of 23.6%
-      </td>
-      <td style="padding:8px;">Python · Go · Cassandra · Docker</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;"><strong>Augurs Technologies</strong> (2022–23)</td>
-      <td style="padding:8px;">
-      •Automated data ingestion saving 10+ hrs/week
-      <br>
-      •Built dashboards driving 8% QoQ revenue growth
-      </td>
-      <td style="padding:8px;">React · Node.js · PostgreSQL</td>
-    </tr>
-  </table>
-</div>
+<!-- Condensed GitHub Insights & Career Highlights side-by-side -->
+<table width="100%" style="table-layout:fixed; word-wrap:break-word;">
+  <tr>
+    <!-- GitHub Insights Column -->
+    <td width="40%" valign="top" style="padding-right:4%; line-height:1.4;">
+      <h3>📈 GitHub Insights</h3>
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=abrarahmad1510&show_icons=true&theme=dark&count_private=true"
+        width="100%"
+      />
+    </td>
+    <!-- Career Highlights Column -->
+    <td width="60%" valign="top" style="line-height:1.4;">
+      <h3>💼 Career Highlights</h3>
+      <table width="100%" style="table-layout:fixed; border-collapse:collapse; word-wrap:break-word;">
+        <tr>
+          <th align="left" style="padding:8px;">Company</th>
+          <th align="left" style="padding:8px;">Key Impact</th>
+          <th align="left" style="padding:8px;">Tech &amp; Tools</th>
+        </tr>
+        <tr>
+          <td style="padding:8px;"><strong>Microsoft</strong> (’25)</td>
+          <td style="padding:8px;">
+            • Scaled APIs to 2× load<br>
+            • Cut incidents by 20%<br>
+            • Built ETL tests via Airflow
+          </td>
+          <td style="padding:8px;">Azure · C# · gRPC</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;"><strong>Uber Business</strong> (23–24)</td>
+          <td style="padding:8px;">
+            • Playwright + Jenkins CI/CD<br>
+            • Improved ETA by 12%<br>
+            • Java & Firebase retention ↑23.6%
+          </td>
+          <td style="padding:8px;">Python · Go · Cassandra</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;"><strong>Augurs Tech</strong> (22–23)</td>
+          <td style="padding:8px;">
+            • Automated ingestion (10+ hrs/wk)<br>
+            • Dashboards → 8% QoQ growth
+          </td>
+          <td style="padding:8px;">React · Node.js · PostgreSQL</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
