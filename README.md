@@ -7,9 +7,9 @@
   <a href="https://abrarislive.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/abrarahmad1510"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1Jx46095Ik56h0qTjzAlsQRHBzQ0Ni-Wz/view?usp=sharing" target="_blank" rel="noopener"><img alt="Resume" src="https://img.shields.io/badge/Resume-Lightgrey?style=for-the-badge&logo=file-pdf&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/yourusername"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/yourusername"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1FB57B?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://discord.gg/yourserver"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/myselfab1510"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~018df6d3692e6838e8?viewMode=1"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1FB57B?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://discord.gg/myselfab1510"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
