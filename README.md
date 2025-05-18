@@ -57,7 +57,7 @@
     <td width="60%" valign="top" style="line-height:1.4;">
       <h3>💼 Career Highlights</h3>
       <table width="100%" style="table-layout:fixed; border-collapse:collapse; word-wrap:break-word;">
-        <tr>
+        <tr> 
           <th align="left" style="padding:8px;">Company</th>
           <th align="left" style="padding:8px;">Key Impact</th>
           <th align="left" style="padding:8px;">Tech &amp; Tools</th>
