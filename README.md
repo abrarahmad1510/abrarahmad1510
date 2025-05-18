@@ -121,7 +121,6 @@
     </td>
   </tr>
 </table>
-![image](https://github.com/user-attachments/assets/2d3d8ce1-baa3-4130-b9e9-721f7adad5a9)
 
 ---
 <!-- Condensed GitHub Insights & Career Highlights side-by-side -->
