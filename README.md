@@ -46,7 +46,6 @@
             <th align="left">Project</th>
             <th align="left">Tech</th>
             <th align="left">Highlight</th>
-            <th align="left">Link</th>
           </tr>
         </thead>
         <tbody>
@@ -60,7 +59,6 @@
               Lane &amp; obstacle detection<br>
               (98% accuracy)
             </td>
-            <td><a href="https://github.com/abrarahmad1510/drivemate-ai">Repo</a></td>
           </tr>
           <tr>
             <td><strong>1DayIntern</strong></td>
@@ -72,7 +70,6 @@
               Processed 5k+ mock<br>
               sessions in beta
             </td>
-            <td><a href="https://internatyourownrisk.tech/">Live</a></td>
           </tr>
           <tr>
             <td><strong>DigiTag</strong></td>
@@ -84,7 +81,6 @@
               Handled 1k+ blockchain<br>
               transactions
             </td>
-            <td><a href="https://xvqev-wqaaa-aaaag-at4ta-cai.icp0.io/">Site</a></td>
           </tr>   
         </tbody>
       </table>
