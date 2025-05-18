@@ -1,7 +1,7 @@
 # Hi Everyone, I’m **Abrar**  
 <h4 align = "center">Incoming SWE @ Microsoft | Prev SWE @ Uber Business | UWaterloo CS | Backend Specialist | Machine Learning Engineer</h4>
 
-<p align="center">
+<p align="center"> 
   <a href="https://www.linkedin.com/in/abrar-ahmad-36b949271/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abrarahmad.professional@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://abrarislive.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
