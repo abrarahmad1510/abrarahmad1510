@@ -159,7 +159,7 @@
           <td style="padding:8px;">Azure · C# · gRPC</td>
         </tr>
         <tr>
-          <td style="padding:8px;"><strong>Uber Business</strong> (23–24)</td>
+          <td style="padding:8px;"><strong>Nexus Hospitality</strong> (23–24)</td>
           <td style="padding:8px;">
             • Playwright + Jenkins CI/CD<br>
             • Improved ETA by 12%<br>
